@@ -77,13 +77,13 @@ No need to install git in linux or termux
 </p>
 
 
-## **[Buy Premium](https:wa.me/+919707905478) InstaReport Tool or [contact](https://wa.me/+919707905478) me personally for banning account**
+## **[Buy Premium](http:wa.me/+919707905478) InstaReport Tool or [contact](http://wa.me/+919707905478) me personally for banning account**
 
 
 ## Warning:
 #### This tool is only for educational purpose. If you use this tool for other purposes except education we will not be responsible in such cases
 
-<a href="https://t.me/hackerxdevil"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
+<a href="https://t.me/BHUBANBAM100"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
 
 #####Watch Video Tutorial : 
 <a href="wa.me/+919707905478"><img src="https://img.shields.io/badge/Video%20Tutorial-red.svg?logo=Youtube"></a>
