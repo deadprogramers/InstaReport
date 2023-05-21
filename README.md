@@ -9,7 +9,7 @@ This is a script which reports targeted instagram account or an instagram video.
 Works On
 <a href="https://t.me/hackerxdevil"><img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"></a>
 <a href="https://t.me/hackerxdevil"><img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"></a>
-<a href="https://t.me/hackerxdevil"><img src="https://img.shields.io/badge/-kali%20linux-lightgrey"></a>
+<a href="https://t.me/vclubccselling"><img src="https://img.shields.io/badge/-kali%20linux-lightgrey"></a>
 ```
 [+] Powerful ban tool 
 [+] Uses proxy + username
@@ -81,7 +81,7 @@ No need to install git in linux or termux
 
 
 ## Warning:
-#### This tool is only for educational purpose. If you use this tool for other purposes except education we will not be responsible in such cases And we can't take gauarnte for the account to be ban or not  don't ask for refund  instead wait for 2-3 days  will refund you after 3 days , and if you purchase the script from me then i can  take gauarnte   if doesn't work refund in 5minutes   ❤️  regards team indian hackerz 
+#### This tool is only for educational purpose. If you use this tool for other purposes except education we will not be responsible in such cases And we can't take gauarnte for the account to be ban or not  don't ask for refund  instead wait for 2-3 days  will refund you after 3 days , and if you purchase the script from me then i can  take gauarnte   but wait  if you're pc doesn't have high procesing power you cant get refund   and no rdp shit   it won't work in rdp    works only with high req pc   !            if not working in your high req pc refund in 5minutes   ❤️  regards team indian hackerz 
 
 <a href="https://t.me/BHUBANBAM100"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
 
