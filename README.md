@@ -2,9 +2,16 @@
 This is a script which reports targeted instagram accounts and instagram videos in bulk.
 Version : 3.0.0
 [![forthebadge Made-With-Python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
-
+  
+  
+  
+  
+  Instagram hacking script available also
 
 ### Features
+
+
+
 This is a script which reports targeted instagram account or an instagram video. 
 Works On
 <a href="https://t.me/hackerxdevil"><img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"></a>
