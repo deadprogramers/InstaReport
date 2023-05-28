@@ -84,7 +84,7 @@ No need to install git in linux or termux
 </p>
 
 
-## **[Buy Premium](http://wa.me/+919054740550) InstaReport Tool or [contact](http://wa.me/+919054740550) me personally for banning account**
+## **[Buy Premium](http://wa.me/) InstaReport Tool or [contact](http://wa.me/) me personally for banning account**
 
 
 ## Warning:
