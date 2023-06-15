@@ -84,13 +84,13 @@ No need to install git in linux or termux
 </p>
 
 
-## **[Buy Premium](http://wa.me/) InstaReport Tool or [contact](http://wa.me/) me personally for banning account**
+## **[Buy Premium](wa.me/+919707905478) InstaReport Tool or [contact](wa.me/+919707905478) me personally for banning account**
 
 
 ## Warning:
 #### This tool is only for educational purpose. If you use this tool for other purposes except education we will not be responsible in such cases And we can't take gauarnte for the account to be ban or not  don't ask for refund  instead wait for 2-3 days  will refund you after 3 days , and if you purchase the script from me then i can  take gauarnte   but wait  if you're pc doesn't have high procesing power you cant get refund   and no rdp shit   it won't work in rdp    works only with high req pc   !            if not working in your high req pc refund in 5minutes   ❤️  regards team indian hackerz 
 
-<a href="https://t.me/BHUBANBAM100"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
+<a href="https://t.me/jadugarraj"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
 
 #####Watch Video Tutorial : 
 <a href="wa.me/+919707905478"><img src="https://img.shields.io/badge/Video%20Tutorial-red.svg?logo=Youtube"></a>
