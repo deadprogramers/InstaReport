@@ -14,8 +14,8 @@ Version : 3.0.0
 
 This is a script which reports targeted instagram account or an instagram video. 
 Works On
-<a href="https://t.me/hackerxdevil"><img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"></a>
-<a href="https://t.me/hackerxdevil"><img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"></a>
+<a href="https://t.me/hyper7h"><img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"></a>
+<a href="https://t.me/hyper7h"><img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"></a>
 <a href="https://t.me/vclubccselling"><img src="https://img.shields.io/badge/-kali%20linux-lightgrey"></a>
 ```
 [+] Powerful ban tool 
@@ -28,7 +28,7 @@ Works On
 
 
 
-<a href="https://wa.me/+919707905478"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
+<a href="https://telegram.dog/bunnybinscc"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
 
 ## Requirements
 [Python3 Or Above](https://www.python.org/downloads/)
@@ -84,7 +84,7 @@ No need to install git in linux or termux
 </p>
 
 
-## **[Buy Premium](wa.me/+919707905478) InstaReport Tool or [contact](wa.me/+919707905478) me personally for banning account**
+## **[Buy Premium](telegram.dog/hyper7h) InstaReport Tool or [contact](telegram.dog/taniasachdevChess) me personally for banning account**
 
 
 ## Warning:
