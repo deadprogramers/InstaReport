@@ -84,7 +84,7 @@ No need to install git in linux or termux
 </p>
 
 
-## **[Buy Premium](telegram.dog/hyper7h) InstaReport Tool or [contact](telegram.dog/taniasachdevChess) me personally for banning account**
+## **[Buy Premium](https://telegram.dog/R4bari) InstaReport Tool or [contact](https://telegram.dog/taniasachdevChess) me personally for banning account**
 
 
 ## Warning:
