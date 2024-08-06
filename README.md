@@ -49,17 +49,17 @@ No need to install git in linux or termux
 * `pkg install git`
 * `git clone https://github.com/deadprogramers/InstaReport`
 * `cd instareport`
-* `pip install -r requirements.txt`
+* `pip install selenium`
 * `chmod +x *`
-* `bash setup.sh` OR `python ReportBot.py`
+* `python main.py`
 
 ### INSTALLATION [Windows]
 [Download python](https://www.python.org/downloads/) and [git](https://git-scm.com/downloads)
 
 * `git clone https://github.com/deadprogramers/InstaReport`
 * `cd instareport`
-* `pip install -r requirements.txt`
-* `python ReportBot.py`
+* `pip install selenium`
+* `python main.py`
 * 
 [ - ] If You Don't want to install git then download this tool zip manually
 
@@ -70,9 +70,9 @@ No need to install git in linux or termux
 * `sudo apt install git`
 * `git clone https://github.com/Deadprogramers/InstaReport`
 * `cd instareport`
-* `pip3 install -r requirements.txt`
+* `pip3 install -r selenium`
 * `chmod +x *`
-* `sudo bash setup.sh`
+* `python3 main.py`
 
 ## Stats
 <a href="https://github.com/deadprogramers/InstaReport"><img src="https://github-readme-stats.vercel.app/api?username=deadprogramers&theme=blue-green"></a>
@@ -92,5 +92,5 @@ No need to install git in linux or termux
 <a href="https://t.me/hyper7h"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
 
 #####Watch Video Tutorial : 
-<a href="wa.me/+919707905478"><img src="https://img.shields.io/badge/Video%20Tutorial-red.svg?logo=Youtube"></a>
+<a href="telegram.dog/hyper7h"><img src="https://img.shields.io/badge/Video%20Tutorial-red.svg?logo=Youtube"></a>
 <a href="https://t.me/kyabeh"><img src="https://img.shields.io/badge/Reprt%20Bugs-greeen.svg?logo=Bugs"></a>
