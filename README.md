@@ -1,6 +1,6 @@
 # InstaReport
 This is a script which reports targeted instagram accounts and instagram videos in bulk.
-Version : 3.0.0
+Version : 3.5.0
 [![forthebadge Made-With-Python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
   
   
