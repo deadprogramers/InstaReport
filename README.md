@@ -93,4 +93,4 @@ No need to install git in linux or termux
 
 #####Watch Video Tutorial : 
 <a href="telegram.dog/hyper7h"><img src="https://img.shields.io/badge/Video%20Tutorial-red.svg?logo=Youtube"></a>
-<a href="https://t.me/kyabeh"><img src="https://img.shields.io/badge/Reprt%20Bugs-greeen.svg?logo=Bugs"></a>
+<a href="https://t.me/T3AM_RULERS"><img src="https://img.shields.io/badge/Reprt%20Bugs-greeen.svg?logo=Bugs"></a>
