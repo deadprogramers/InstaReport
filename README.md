@@ -22,7 +22,7 @@ Works On
 [+] Uses proxy + username
 [+] Mass report on instagram account
 [+] Mass report on instagram video
-[+] Gatthering information about instagram account (Comming soon)
+[+] Gatthering information about instagram account
 
 ```
 
@@ -84,7 +84,7 @@ No need to install git in linux or termux
 </p>
 
 
-## **[Buy Premium](https://telegram.dog/hyper7h) InstaReport Tool or [contact](https://telegram.dog/hyper7h) me personally for banning account**
+## **[Buy Premium](https://telegram.dog/@TarxHMU) InstaReport Tool or [contact](https://telegram.dog/@TarxHMU) me personally for banning account**
 
 
 ## Warning:
