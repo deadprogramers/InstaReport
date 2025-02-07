@@ -40,12 +40,11 @@ No need to install git in linux or termux
 # Usage 
 
 
-### INSTALLATION [Termux] (Not working for android right now) 
-
+### INSTALLATION [Termux] (premium version only) 
+,
 * `apt update`
 * `apt upgrade`
-* `pkg install python`
-* `pkg install python3`
+* `pkg install pyt`pkg install python3`
 * `pkg install git`
 * `git clone https://github.com/deadprogramers/InstaReport`
 * `cd instareport`
