@@ -1,7 +1,7 @@
 '''
 Don't forget to give credits : D
-Author : https://github.com/crevils
-Original Repositary : https://github.com/crevils/InstaReport
+Author : https://github.com/deadprogramers
+Original Repositary : https://github.com/deadprogramers/InstaReport
 '''
 
 from selenium import webdriver
