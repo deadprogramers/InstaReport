@@ -19,11 +19,13 @@ Works On
 <a href="https://t.me/TarxMM"><img src="https://img.shields.io/badge/-kali%20linux-lightgrey"></a>
 ```
 [+] Powerful ban tool 
-[+] Uses proxy + username
-[+] Mass report on instagram account
-[+] Mass report on instagram video
-[+] Gatthering information about instagram account
+[+] Uses server database api's
+[+]Instagram x twitter threads snapchat bans
+[+]Instagram snapchat x twitter threads Tiktok Unbans
+[+] Gatthering information about Social Media Accounts 
+Tool price: 400$ per licence
 
+validity: 10 years 
 ```
 
 
