@@ -16,7 +16,7 @@ This is a script which reports targeted instagram account or an instagram video.
 Works On
 <a href="https://t.me/TarxHMU"><img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"></a>
 <a href="https://t.me/TarxHMU"><img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"></a>
-<a href="https://t.me/TarxHMU"><img src="https://img.shields.io/badge/-kali%20linux-lightgrey"></a>
+<a href="https://t.me/TarxMM"><img src="https://img.shields.io/badge/-kali%20linux-lightgrey"></a>
 ```
 [+] Powerful ban tool 
 [+] Uses proxy + username
@@ -28,7 +28,7 @@ Works On
 
 
 
-<a href="https://telegram.dog/TarxHMU"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
+<a href="https://telegram.dog/TarxMM"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
 
 ## Requirements
 [Python3 Or Above](https://www.python.org/downloads/)
@@ -83,13 +83,13 @@ No need to install git in linux or termux
 </p>
 
 
-## **[Buy Premium](https://telegram.dog/TarxHMU) InstaReport Tool or [contact](https://telegram.dog/TarxHMU) me personally for banning account**
+## **[Buy Premium](https://telegram.dog/TarxMM) InstaReport Tool or [contact](https://telegram.dog/TarxMM) me personally for banning account**
 
 
 ## Warning:
 #### This tool is only for educational purpose. If you use this tool for other purposes except education we will not be responsible in such cases 
-<a href="https://t.me/TarxHmu"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
+<a href="https://t.me/TarxMM"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
 
 #####Watch Video Tutorial : 
-<a href="telegram.dog/TarxHmu"><img src="https://img.shields.io/badge/Video%20Tutorial-red.svg?logo=Youtube"></a>
+<a href="telegram.dog/TarxMM"><img src="https://img.shields.io/badge/Video%20Tutorial-red.svg?logo=Youtube"></a>
 <a href="https://t.me/T3AM_RULERS"><img src="https://img.shields.io/badge/Reprt%20Bugs-greeen.svg?logo=Bugs"></a>
