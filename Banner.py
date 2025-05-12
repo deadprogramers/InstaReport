@@ -22,9 +22,9 @@ def show_banner():
 \/_________/\/_/     \/_/   \_____\/   \_\/       \_\___\     /____/_/  \/_/    \_\/\/__________/\/_/       \/_________/ \/_/    \_\/\_\/           
 
           
-          Telegramm - https://t.me/t3am_rulers
+          Telegramm - https://telegram.com/TarxMM
           Github - https://github.com/deadprogramers/instaReport                                                                              
-          Developer - https://t.me/TarxHmu
+          Developer - https://t.me/TarXmM
           Donate to support this project - USDT (trc20) ~ @pay7h >
           
           Disclaimer - This hacking tool is intended for educational and research purposes only. 
