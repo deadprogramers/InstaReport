@@ -23,9 +23,9 @@ Works On
 [+]Instagram x twitter threads snapchat bans
 [+]Instagram snapchat x twitter threads Tiktok Unbans
 [+] Gatthering information about Social Media Accounts 
-Tool price: 400$ per licence
-
-validity: 10 years 
+Tool price: 200$ per licence
+dm on telegram: @Escaly
+instagram: Rntxmango
 ```
 
 
