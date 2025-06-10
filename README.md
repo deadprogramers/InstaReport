@@ -15,7 +15,7 @@ important note: my telegram account has been hacked please dont deal with my old
 
 This is a script which reports targeted instagram account or an instagram video. 
 Works On
-<a href="https://t.me/IDxHYPER"><img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"></a>
+<a href="https://t.me/AnyDayMM"><img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"></a>
 <a href="https://t.me/TarxHMU"><img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"></a>
 <a href="https://t.me/Escaly"><img src="https://img.shields.io/badge/-kali%20linux-lightgrey"></a>
 ```
