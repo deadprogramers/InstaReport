@@ -1,6 +1,6 @@
 '''
 Don't forget to give credits : D
-Author : https://github.com/crevils
+Author : T.me/iEscly
 Original Repositary : https://github.com/crevils/InstaReport
 '''
 
