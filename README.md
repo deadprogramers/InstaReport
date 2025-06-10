@@ -14,7 +14,7 @@ Version : 3.6.0
 
 This is a script which reports targeted instagram account or an instagram video. 
 Works On
-<a href="https://t.me/banUnbanInsta"><img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"></a>
+<a href="https://t.me/IDxHYPER"><img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"></a>
 <a href="https://t.me/TarxHMU"><img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"></a>
 <a href="https://t.me/Escaly"><img src="https://img.shields.io/badge/-kali%20linux-lightgrey"></a>
 ```
@@ -24,13 +24,13 @@ Works On
 [+]Instagram snapchat x twitter threads Tiktok Unbans
 [+] Gatthering information about Social Media Accounts 
 Tool price: 200$ per licence
-dm on telegram: @Escaly
+dm on telegram: @IDXHYPER
 instagram: Rntxmango
 ```
 
 
 
-<a href="https://telegram.dog/Escaly"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
+<a href="https://telegram.dog/AnyDayMM"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
 
 ## Requirements
 [Python3 Or Above](https://www.python.org/downloads/)
@@ -85,13 +85,13 @@ No need to install git in linux or termux
 </p>
 
 
-## **[Buy Premium](https://telegram.dog/Escaly) InstaReport Tool or [contact](https://t.me/banUnbanInsta) me personally for banning account**
+## **[Buy Premium](https://telegram.dog/AnyDayMM) InstaReport Tool or [contact](https://t.me/AnyDayMM) me personally for banning account**
 
 
 ## Warning:
 #### This tool is only for educational purpose. If you use this tool for other purposes except education we will not be responsible in such cases 
-<a href="https://t.me/Escaly"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
+<a href="https://t.me/AnyDayMM"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
 
 #####Watch Video Tutorial : 
-<a href="https://t.me/Escaly"><img src="https://img.shields.io/badge/Video%20Tutorial-red.svg?logo=Youtube"></a>
+<a href="https://t.me/AnyDayMM"><img src="https://img.shields.io/badge/Video%20Tutorial-red.svg?logo=Youtube"></a>
 <a href="https://t.me/banUnbanInsta"><img src="https://img.shields.io/badge/Reprt%20Bugs-greeen.svg?logo=Bugs"></a>
