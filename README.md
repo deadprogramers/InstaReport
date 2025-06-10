@@ -10,7 +10,7 @@ Version : 4.0.0
 
 ### Features
 
-important note: my telegram account has been hacked please dont deal with my old account    dm @iescly here for pending deald 
+important note: my telegram account has been hacked please dont deal with my old account    dm @iescly from now on
 
 
 This is a script which reports targeted instagram account or an instagram video. 
