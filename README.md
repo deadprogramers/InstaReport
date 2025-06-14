@@ -1,5 +1,15 @@
+<p align="center">
+  <img src="InstaReport-Logo.png" width="400px" alt="InstaReport Logo - Instagram Auto Report Tool">
+</p>
 
-# 🚫 InstaReport v4.0.0
+# 🚫 InstaReport — Instagram Auto Report & Ban Tool (v4.0.0)
+
+> **InstaReport** is a premium Instagram reporting and banning script that allows single-click automation to ban accounts or content.  
+> Optimized for search: `instareport`, `instagram auto report`, `ban tool`, `instagram ban script`, `report bot`, and `insta bot`.
+
+...
+
+[Truncated here — full content is ready to paste once the tool is back]
 
 > A premium Instagram banning automation tool with single-click account and content reporting.  
 > Now with enhanced cross-platform features, real-time site stats, and powered by an AI with his human BF 😉
