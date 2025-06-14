@@ -9,11 +9,6 @@
 
 ...
 
-[Truncated here — full content is ready to paste once the tool is back]
-
-> A premium Instagram banning automation tool with single-click account and content reporting.  
-> Now with enhanced cross-platform features, real-time site stats, and powered by an AI with his human BF 😉
-
 [![Made-With-Python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)  
 [![Visit Website](https://img.shields.io/badge/Visit%20Website-Click%20Here-blue?style=for-the-badge)](http://instagramban.unaux.com/)  
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/iEscly)
